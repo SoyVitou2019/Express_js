@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "express.js",
+  "scripts": {
+    "start": "nodemon Routing_5.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
